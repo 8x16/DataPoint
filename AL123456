@@ -1,48 +1,48 @@
 {
-  partNumber: "AL123456",
-  details: {
-    description: "Oil Line",
-    criticalCode: "N/A",
-    commodityCode: "N/A",
-    harmonizedCode: "0000",
-    vendorDirectPath: "N/A",
-    returnable: "N/A",
-    groupingCode: "N/A"
-  },
-  packageDetails: {
-    weightInKgs: "0.15",
-    volumeInCmm: "0.25",
-    dimensionsInMm: {
-      length: "600",
-      width: "120",
-      height: "142",
-    },
-    quantity: "1",
-    hazardCode: "N/A",
-  },
-  pricingDiscountsSurcharges: {
-    ref: "0.00",
-    suggestedListPrice: "0.00",
-    coreRef: "N/A",
-    listCorePrice: "N/A",
-    exchangeRef: "N/A",
-    listExchangePrice: "N/A",
-    restockFee: "N/A",
-  },
-  inventoryLocation: {
-    emergencyTotalBalance: "12",
-    stockOrderBalance: "0",
-  },
-  promotionalDetails: {
-    promotion: "Black Friday Sale",
-    description: "Get 5% Off on orders worth $5000.00/-",
-  },
-  replacementPartsFor: {
-    option: "Yes",
-    partNumber: "AL100123",
-  },
-  partNotes: {
-    inventoryLocations: "Iowa",
-    notes: "Delivery by Monday",
-  },
+	"partNumber": "AL123456",
+	"details": {
+		"description": "Oil Line",
+		"criticalCode": "N/A",
+		"commodityCode": "N/A",
+		"harmonizedCode": "0000",
+		"vendorDirectPath": "N/A",
+		"returnable": "N/A",
+		"groupingCode": "N/A"
+	},
+	"packageDetails": {
+		"weightInKgs": "0.15",
+		"volumeInCmm": "0.25",
+		"dimensionsInMm": {
+			"length": "600",
+			"width": "120",
+			"height": "142"
+		},
+		"quantity": "1",
+		"hazardCode": "N/A"
+	},
+	"pricingDiscountsSurcharges": {
+		"ref": "0.00",
+		"suggestedListPrice": "0.00",
+		"coreRef": "N/A",
+		"listCorePrice": "N/A",
+		"exchangeRef": "N/A",
+		"listExchangePrice": "N/A",
+		"restockFee": "N/A"
+	},
+	"inventoryLocation": {
+		"emergencyTotalBalance": "12",
+		"stockOrderBalance": "0"
+	},
+	"promotionalDetails": {
+		"promotion": "Black Friday Sale",
+		"description": "Get 5% Off on orders worth $5000.00/-"
+	},
+	"replacementPartsFor": {
+		"option": "Yes",
+		"partNumber": "AL100123"
+	},
+	"partNotes": {
+		"inventoryLocations": "Iowa",
+		"notes": "Delivery by Monday"
+	}
 }
