@@ -7,7 +7,7 @@
     harmonizedCode: "0000",
     vendorDirectPath: "N/A",
     returnable: "N/A",
-    groupingCode: "N/A",
+    groupingCode: "N/A"
   },
   packageDetails: {
     weightInKgs: "0.15",
